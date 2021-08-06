@@ -8,10 +8,10 @@
               {"name":"Rebeca Farias", "rating":4.9, "main_category":"tech","positions_closed":53,"img_url":"https://i.pravatar.cc/300/2", "average_delivery_time":4.5,"badges":"Super Recruiter"},
               {"name":"Carlos Cavalvante", "rating":4.6, "main_category":"tech","positions_closed":13,"img_url":"https://i.pravatar.cc/300/3", "average_delivery_time":2,"badges":null},
               {"name":"Renata Alvertinni", "rating":4.8, "main_category":"tech","positions_closed":104,"img_url":"https://i.pravatar.cc/300/4", "average_delivery_time":6.5,"badges":"Super Recruiter"},
-              {"name":"Marcos Brazz", "rating":4.8, "main_category":"tech","positions_closed":9,"img_url":"https://i.pravatar.cc/300", "average_delivery_time":4.5,"badges":null},
-              {"name":"Pedro Domingues", "rating":4.9, "main_category":"tech","positions_closed":81,"img_url":"https://i.pravatar.cc/300", "average_delivery_time":2.5,"badges":"Super Recruiter"},
-              {"name":"Victor Bello", "rating":4.1, "main_category":"tech","positions_closed":11,"img_url":"https://i.pravatar.cc/300", "average_delivery_time":4.5,"badges":"Super Recruiter"},
-              {"name":"Carla Tentinato", "rating":3.8, "main_category":"tech","positions_closed":4,"img_url":"https://i.pravatar.cc/300", "average_delivery_time":3.5,"badges":null}
+              {"name":"Marcos Brazz", "rating":4.8, "main_category":"tech","positions_closed":9,"img_url":"https://i.pravatar.cc/300/5", "average_delivery_time":4.5,"badges":null},
+              {"name":"Pedro Domingues", "rating":4.9, "main_category":"tech","positions_closed":81,"img_url":"https://i.pravatar.cc/300/6", "average_delivery_time":2.5,"badges":"Super Recruiter"},
+              {"name":"Victor Bello", "rating":4.1, "main_category":"tech","positions_closed":11,"img_url":"https://i.pravatar.cc/300/7", "average_delivery_time":4.5,"badges":"Super Recruiter"},
+              {"name":"Carla Tentinato", "rating":3.8, "main_category":"tech","positions_closed":4,"img_url":"https://i.pravatar.cc/300/8", "average_delivery_time":3.5,"badges":null}
 
             ]
 

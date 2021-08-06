@@ -2,7 +2,7 @@
 {
 
 
-"hunters_list:
+"hunters_list":
             [
               {"name":"Joao Machado", "rating":4.6, "main_category":"tech","positions_closed":13,"img_url":"https://i.pravatar.cc/300", "average_delivery_time":3.5,"badges":null},
               {"name":"Rebeca Farias", "rating":4.9, "main_category":"tech","positions_closed":53,"img_url":"https://i.pravatar.cc/300", "average_delivery_time":4.5,"badges":"Super Recruiter"},

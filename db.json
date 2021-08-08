@@ -13,8 +13,16 @@
               {"name":"Victor Bello", "rating":4.1, "main_category":"tech","positions_closed":11,"img_url":"https://i.pravatar.cc/300/7", "average_delivery_time":4.5,"badges":"Super Recruiter","city":"Sao Paulo"},
               {"name":"Carla Tentinato", "rating":3.8, "main_category":"tech","positions_closed":4,"img_url":"https://i.pravatar.cc/300/8", "average_delivery_time":3.5,"badges":null,"city":"Sao Paulo"}
 
-            ]
+            ],
+  "collection_list": [
+              {"img_url": "https://picsum.photos/seed/picsum/300/150","collection_redirect_url":"https://localhost/collection/1", "collection_id":150},
+              {"img_url": "https://picsum.photos/seed/mountain/300/150","collection_redirect_url":"https://localhost/collection/2", "collection_id":160},
+              {"img_url": "https://picsum.photos/seed/cliff/300/150","collection_redirect_url":"https://localhost/collection/3", "collection_id":170},
+              {"img_url": "https://picsum.photos/seed/lake/300/150","collection_redirect_url":"https://localhost/collection/4", "collection_id":180},
+              {"img_url": "https://picsum.photos/seed/board/300/150","collection_redirect_url":"https://localhost/collection/5", "collection_id":190},
 
+  
+  ]
 
 }
 
